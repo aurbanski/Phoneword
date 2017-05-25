@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F4E1333A-A258-4A5B-89F2-28CD82210D6D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/MainPage.cs">
+    <Files>
+      <File FileName="Phoneword/PhonewordTranslator.cs" Line="53" Column="25" />
+      <File FileName="Phoneword/App.xaml.cs" Line="18" Column="39" />
+      <File FileName="Phoneword/MainPage.cs" Line="70" Column="23" />
+      <File FileName="Phoneword/IDialer.cs" Line="6" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Phoneword" expanded="True">
+            <Node name="Phoneword.iOS" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Phoneword.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1B2E03E5-7D0E-4628-A23B-A181C069008D" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Phoneword.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
